@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Coffee",
+    "description": "Find the best coffee in town.",
+    "image_url": "assets/images/coffee.jpg"
+  },
+  {
+    "id": 2,
+    "name": "White Coffee",
+    "description": "Mind boggling, woke coffee",
+    "image_url": "assets/images/white_coffee.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Pasta",
+    "description": "Know your street, this might be the best pasta you ever had",
+    "image_url": "assets/images/pasta.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Soushi",
+    "description": "Chinese delicacies",
+    "image_url": "assets/images/soushi.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Burgers",
+    "description": "Best burgers in town",
+    "image_url": "assets/images/burgers.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Be Entertained",
+    "description": "Let you imagination run wild",
+    "image_url": "assets/images/entertainment.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pasta Rolls",
+    "description": "Pasta with fried beef, yummy",
+    "image_url": "assets/images/pasta_beef.jpg"
+  }
+]
